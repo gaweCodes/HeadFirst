@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuckSim.Original", "DuckSim\Original\DuckSim.Original.csproj", "{AD0DB80F-0F2C-4D38-A56E-C80C174AA33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSim.Solution", "DuckSim\DuckSim.Solution\DuckSim.Solution.csproj", "{3028FF61-81CF-49CD-B602-371649C4DC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0DB80F-0F2C-4D38-A56E-C80C174AA33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0DB80F-0F2C-4D38-A56E-C80C174AA33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0DB80F-0F2C-4D38-A56E-C80C174AA33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0DB80F-0F2C-4D38-A56E-C80C174AA33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3028FF61-81CF-49CD-B602-371649C4DC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3028FF61-81CF-49CD-B602-371649C4DC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3028FF61-81CF-49CD-B602-371649C4DC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3028FF61-81CF-49CD-B602-371649C4DC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25A115B-28B0-4B04-9487-3DFDE60B975B}
+	EndGlobalSection
+EndGlobal
